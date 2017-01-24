@@ -13,3 +13,4 @@ And yet more merge conflicts (this should really go at the end...)
 
 I'm adding something locally at the end.
 '
+Adding something remotely during class. I want this really to be at the end.
