@@ -10,3 +10,6 @@ Remote append...
 
 Doing this again...
 And yet more merge conflicts (this should really go at the end...)
+
+I'm adding something locally at the end.
+'
